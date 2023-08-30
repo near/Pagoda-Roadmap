@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-**Key Results**
+### Description
+(Additional context and details about the OKR)
 
+### Key Results
 - Metric 1
 - Metric 2
 - Metric 3
