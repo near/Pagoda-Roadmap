@@ -12,3 +12,10 @@ assignees: ''
 - Metric 1
 - Metric 2
 - Metric 3
+
+```[tasklist]
+### Related Initiatives
+- [ ] https://github.com/near/github-project-test/issues/1
+- [ ] https://github.com/near/github-project-test/issues/2
+- [ ] https://github.com/near/github-project-test/issues/3
+```
