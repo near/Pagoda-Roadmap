@@ -18,7 +18,7 @@ assignees: ''
 
 ```[tasklist]
 ### Related Epics
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] https://github.com/near/github-project-test/issues/1
+- [ ] https://github.com/near/github-project-test/issues/2
+- [ ] https://github.com/near/github-project-test/issues/3
 ```
