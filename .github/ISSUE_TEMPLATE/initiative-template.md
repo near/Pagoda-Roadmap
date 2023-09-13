@@ -2,7 +2,7 @@
 name: Initiative template
 about: Template for creating an Initiative for the Pagoda Roadmap
 title: "\U0001F530 [Initiative] Initiative template"
-labels: DevX, Initiative, Near.org
+labels: Initiative
 assignees: ''
 
 ---
