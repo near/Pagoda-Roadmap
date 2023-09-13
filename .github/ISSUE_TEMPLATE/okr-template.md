@@ -2,7 +2,7 @@
 name: OKR template
 about: Template for creating an OKR for the OKR Tracker
 title: "\U0001F3AF [OKR] OKR template"
-labels: Near.org, OKR
+labels: OKR
 assignees: ''
 
 ---
